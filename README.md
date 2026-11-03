@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/cyla.png" alt="Cyla Banner" width="100%" style="max-width: 800px;">
 
-  # Cyla
+  # Cyla arc
   **Self-organizing adaptive list with online SGD scoring and cold-gated Move-to-Front.**
 
   [![Tests](https://img.shields.io/badge/tests-22%20passed-brightgreen.svg)](test.py)
